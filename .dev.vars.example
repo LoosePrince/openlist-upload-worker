@@ -1,0 +1,4 @@
+ADDRESS=https://your-openlist-server
+TOKEN=your-api-token-here
+WORKER_ADDRESS=https://your-worker-address
+DISABLE_SIGN=false

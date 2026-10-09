@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "openlist-upload-worker",
+  "main": "openlist-upload-worker.js",
+  "compatibility_date": "2026-10-09",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "ADDRESS": "https://your-openlist-server",
+    "WORKER_ADDRESS": "https://your-worker-address",
+    "DISABLE_SIGN": "false"
+  }
+}
